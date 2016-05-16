@@ -8,3 +8,13 @@ c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_0
 c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.csproj.GenerateResource.Cache
 c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.exe
 c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.pdb
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\bin\Debug\ImgTool_003.exe.config
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.exe
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.pdb
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\bin\Debug\ImgTool_003.exe
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\bin\Debug\ImgTool_003.pdb
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.csprojResolveAssemblyReference.cache
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.Form1.resources
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.Form_Main.resources
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.Properties.Resources.resources
+C:\Users\choi.jaeyun\Documents\Works\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.csproj.GenerateResource.Cache

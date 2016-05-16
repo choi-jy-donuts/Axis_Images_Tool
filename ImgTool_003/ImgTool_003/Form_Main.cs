@@ -34,5 +34,10 @@ namespace ImgTool_003
                 cPicBox_Icon.Image = img1;
             }
         }
+
+        private void Form_Main_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
