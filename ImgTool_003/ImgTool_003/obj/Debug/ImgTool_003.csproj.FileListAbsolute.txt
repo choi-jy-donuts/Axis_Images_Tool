@@ -1,0 +1,10 @@
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\bin\Debug\ImgTool_003.exe.config
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\bin\Debug\ImgTool_003.exe
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\bin\Debug\ImgTool_003.pdb
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.csprojResolveAssemblyReference.cache
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.Form1.resources
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.Form_Main.resources
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.Properties.Resources.resources
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.csproj.GenerateResource.Cache
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.exe
+c:\users\choi.jaeyun\documents\visual studio 2015\Projects\ImgTool_003\ImgTool_003\obj\Debug\ImgTool_003.pdb
