@@ -4,7 +4,7 @@ using System.Drawing;
 
 namespace Custom.Control
 {
-    class ccPictureBox : PictureBox
+    class CustomPictureBox : PictureBox
     {
         [Browsable(true)]
         public override bool AllowDrop { get; set; }

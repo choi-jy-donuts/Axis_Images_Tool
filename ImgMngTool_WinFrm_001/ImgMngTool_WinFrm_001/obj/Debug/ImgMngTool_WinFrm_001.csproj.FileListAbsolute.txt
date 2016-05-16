@@ -1,0 +1,5 @@
+C:\Users\choi.jaeyun\Documents\Works\ImgMngTool_WinFrm_001\ImgMngTool_WinFrm_001\bin\Debug\ImgMngTool_WinFrm_001.exe.config
+C:\Users\choi.jaeyun\Documents\Works\ImgMngTool_WinFrm_001\ImgMngTool_WinFrm_001\obj\Debug\ImgMngTool_WinFrm_001.csprojResolveAssemblyReference.cache
+C:\Users\choi.jaeyun\Documents\Works\ImgMngTool_WinFrm_001\ImgMngTool_WinFrm_001\obj\Debug\ImgMngTool_WinFrm_001.Form1.resources
+C:\Users\choi.jaeyun\Documents\Works\ImgMngTool_WinFrm_001\ImgMngTool_WinFrm_001\obj\Debug\ImgMngTool_WinFrm_001.WinFrm_Main.resources
+C:\Users\choi.jaeyun\Documents\Works\ImgMngTool_WinFrm_001\ImgMngTool_WinFrm_001\obj\Debug\ImgMngTool_WinFrm_001.csproj.GenerateResource.Cache
